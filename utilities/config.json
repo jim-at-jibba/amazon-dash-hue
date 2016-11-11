@@ -1,0 +1,16 @@
+{
+  "hue": {
+    "hueAddress": "192.168.1.181",
+    "hueUser": "TV1L3DrZOk4HsElodWQxP3bcoZ3-Rwr145T9H8XS"
+  },
+  "buttons": [
+    {
+      "id": "50:f5:da:86:64:c1",
+      "btn-name": "Besty bedroom light"
+    },
+    {
+      "id": "50:f5:da:c6:a8:7a",
+      "btn-name": "Office Desk Lamp"
+    }
+  ]
+}

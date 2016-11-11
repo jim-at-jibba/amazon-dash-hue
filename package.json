@@ -1,0 +1,18 @@
+{
+  "name": "dash-buttons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-dash-button": "^0.6.1",
+    "node-hue-api": "^2.3.0",
+    "ramda": "^0.22.1",
+    "winston": "^2.3.0"
+  }
+}
